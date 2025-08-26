@@ -29,11 +29,9 @@ The dataset contains details of Ola rides such as:
 
 ---
 
-## 🛠️ Tech Stack  
-- **Python** (Data Cleaning, Analysis, Visualization)  
-- **Pandas & NumPy** (Data Manipulation)  
-- **Matplotlib & Seaborn** (Data Visualization)  
-- **Jupyter Notebook / Google Colab**  
+## 🛠️ Tech Stack   
+
+- **Power BI , mysql , Excel**  
 
 ---
 
